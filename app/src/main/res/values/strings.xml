@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusTracker</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="textoBtn1">Consultar buses</string>
+    <string name="textoBtn2">Consultar un bus</string>
+    <string name="textoBtn3">Ver en mapa</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="seleccionaMatricula">Selecciona una matricula</string>
+    <string name="instruccion1">El primer boton mostrará un mapa con todos los autobuses en tiempo real, mientras que el segundo botón podrás filtrar por que autobus quieres ver.</string>
+    <string name="instruccion2">Selecciona la matricula del autobus que quieres consultar y pulsa "Ver en mapa".</string>
+    <string name="title_activity_maps_todos_buses">Map</string>
+</resources>
